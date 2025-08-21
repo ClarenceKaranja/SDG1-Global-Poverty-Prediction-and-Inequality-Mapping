@@ -14,12 +14,10 @@ SDG 1 aims to end poverty in all its forms everywhere. This project analyzes glo
 Plain-language: We clean the data, explore patterns, build models to predict or analyze outcomes, and visualize results for clarity.
 
 ## Key Findings
-- Historical data shows declining poverty rates for World, India, and Nigeria from 1990 to 2020 (see results/poverty_trends.png).
-- ARIMA forecast predicts continued decline in global poverty rates over the next 5 years (see results/poverty_forecast.png).
-- Plain-language summary: This analysis shows poverty is decreasing globally, with predictions for further reductions, though data may miss informal economies.
+- [Placeholder: Add key insights after analysis, e.g., "Poverty rates declined 10% in Asia (see figure in results/)."]
+- Plain-language summary: [Placeholder: Simple explanation for non-experts, e.g., "This shows how poverty is changing worldwide."]
 
-![Poverty Trends](results/poverty_trends.png)
-![Poverty Forecast](results/poverty_forecast.png)
+[Include alt-text for visuals: "Line chart showing trends by region, using colorblind-friendly palette."]
 
 ## How to Reproduce
 1. Clone repo: `git clone [url]`
